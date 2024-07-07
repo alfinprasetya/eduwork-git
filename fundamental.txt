@@ -1,0 +1,38 @@
+Perintah perintah dasar dalam mengoperasikan git
+
+1. Git Init
+digunakan untuk menginisialisasi folder saat ini sebagai repository,
+yang nantinya akan dicatat setiap perubahan file yang ada didalam folder
+
+2. Git Config
+Berguna untuk mengkonfigurasi email dan username git
+Contoh:
+- Git config --local user.name "username"
+
+3. Git Status
+digunakan untuk mengetahui Status dari tiap-tiap file
+ada 3 status file dalam git:
+- Untracked
+- Staging
+- Modified
+
+4. Git Add
+Untuk memasukan file ke staging area
+
+5. Git log
+Untuk melihat riwayat commit
+
+6. Git commit
+Untuk memfinalisasi dan mencatat perubahan yang dilakukan
+
+7. Git Clone
+Digunakan untuk mengcopy repository dari remote server
+
+8. Git Remote
+Digunakan untuk berinteraksi dengan repository di remote server
+
+9. Git Push
+Untuk mengirimkan perubahan yang telah dicommit ke remote server
+
+10. Git Pull
+Untuk mengambil perubahan yang terjadi di remote server ke local repository
