@@ -1,0 +1,8 @@
+GIT - Intro
+Git adalah salah satu version control system yang paling populer
+Git bekerja dengan cara mencatat setiap perubahan yang terjadi pada code yang kita buat
+Git diciptakan oleh Linus Trovals
+
+Manfaat dari git:
+Mempermudah proses kolaborasi dalam suatu project
+Mempermudah tracking perubahan dalam source code
